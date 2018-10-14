@@ -10,5 +10,5 @@ else:
 	     arr.append(int(input()))
      for i in range(K):
          sum = sum + arr[i]
-     print("\n sum is ")
+     print("sum is ")
      print(sum)	 
